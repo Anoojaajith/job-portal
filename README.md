@@ -33,18 +33,18 @@ Key Functionalities:
 
 Advantages
 
-- ✅ Centralized Platform: One place to manage job applications, interviews, and resume creation.
-- ✅ Admin Verification: Ensures the validity of job postings and user profiles, reducing scams.
-- ✅ Resume and Cover Letter Builder: Helps candidates create professional documents.
-- ✅ Freelancer Support: Allows companies to rent space for freelancers to conduct sessions.
-- ✅ IT-Focused: Targets jobs specifically in the IT domain for better matching.
+-  Centralized Platform: One place to manage job applications, interviews, and resume creation.
+-  Admin Verification: Ensures the validity of job postings and user profiles, reducing scams.
+-  Resume and Cover Letter Builder: Helps candidates create professional documents.
+-  Freelancer Support: Allows companies to rent space for freelancers to conduct sessions.
+-  IT-Focused: Targets jobs specifically in the IT domain for better matching.
 
 Disadvantages
 
-- ❌ Manual Approval Delay: Admin approvals for registrations can slow down access.
-- ❌ Limited Job Variety: Focus is mainly on IT sector, restricting broader application.
-- ❌ Technical Issues: May face accessibility issues due to internet or server problems.
-- ❌ Incomplete Job Coverage: Not all job types or companies may be listed on the platform.
+-   Manual Approval Delay: Admin approvals for registrations can slow down access.
+-   Limited Job Variety: Focus is mainly on IT sector, restricting broader application.
+-   Technical Issues: May face accessibility issues due to internet or server problems.
+-   Incomplete Job Coverage: Not all job types or companies may be listed on the platform.
 
 
 
