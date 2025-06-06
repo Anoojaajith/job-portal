@@ -14,20 +14,20 @@ The aim of the project is to develop an online platform that simplifies the recr
 Key Functionalities:
 
 •	Admin:
-o	Approve/reject company and candidate registrations
-o	Manage user feedback and reported profiles
-o	Monitor user activity and delete invalid accounts
+   o	Approve/reject company and candidate registrations
+   o	Manage user feedback and reported profiles
+   o	Monitor user activity and delete invalid accounts
 •	Company:
-o	Create/edit company profiles
-o	Post new job vacancies and schedule interviews
-o	Access and download candidate resumes
-o	Rent workspace for freelancers
+   o	Create/edit company profiles
+   o	Post new job vacancies and schedule interviews
+   o	Access and download candidate resumes
+   o	Rent workspace for freelancers
 •	Candidate:
-o	Search jobs and apply online
-o	Build and upload resumes, certificates, and photos
-o	Attend scheduled online interviews
-o	Access online courses and interview questions
-o	Report fake profiles or provide feedback
+   o	Search jobs and apply online
+   o	Build and upload resumes, certificates, and photos
+   o	Attend scheduled online interviews
+   o	Access online courses and interview questions
+   o	Report fake profiles or provide feedback
 
 Advantages
 
@@ -48,6 +48,7 @@ Disadvantages
 
 
 Working Diagram 
+
 ![image](https://github.com/user-attachments/assets/98625717-e85b-4a31-b2e3-9cc8b3b4901e)
 
  
