@@ -31,11 +31,11 @@ Key Functionalities:
 
 Advantages
 
-•	✅ Centralized Platform: One place to manage job applications, interviews, and resume creation.
-•	✅ Admin Verification: Ensures the validity of job postings and user profiles, reducing scams.
-•	✅ Resume and Cover Letter Builder: Helps candidates create professional documents.
-•	✅ Freelancer Support: Allows companies to rent space for freelancers to conduct sessions.
-•	✅ IT-Focused: Targets jobs specifically in the IT domain for better matching.
+  •	✅ Centralized Platform: One place to manage job applications, interviews, and resume creation.
+  •	✅ Admin Verification: Ensures the validity of job postings and user profiles, reducing scams.
+  •	✅ Resume and Cover Letter Builder: Helps candidates create professional documents.
+  •	✅ Freelancer Support: Allows companies to rent space for freelancers to conduct sessions.
+  •	✅ IT-Focused: Targets jobs specifically in the IT domain for better matching.
 
 Disadvantages
 
