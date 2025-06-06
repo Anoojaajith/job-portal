@@ -14,35 +14,35 @@ The aim of the project is to develop an online platform that simplifies the recr
 Key Functionalities:
 
 •	Admin:
-- o	Approve/reject company and candidate registrations
-- o	Manage user feedback and reported profiles
-- o	Monitor user activity and delete invalid accounts
+- 	Approve/reject company and candidate registrations
+- 	Manage user feedback and reported profiles
+- 	Monitor user activity and delete invalid accounts
 •	Company:
-- o	Create/edit company profiles
-- o	Post new job vacancies and schedule interviews
-- o	Access and download candidate resumes
-- o	Rent workspace for freelancers
+- 	Create/edit company profiles
+- 	Post new job vacancies and schedule interviews
+- 	Access and download candidate resumes
+-  Rent workspace for freelancers
 •	Candidate:
-- o	Search jobs and apply online
-- o	Build and upload resumes, certificates, and photos
-- o	Attend scheduled online interviews
-- o	Access online courses and interview questions
-- o	Report fake profiles or provide feedback
+- 	Search jobs and apply online
+-  Build and upload resumes, certificates, and photos
+- 	Attend scheduled online interviews
+- 	Access online courses and interview questions
+- 	Report fake profiles or provide feedback
 
 Advantages
 
-- •	✅ Centralized Platform: One place to manage job applications, interviews, and resume creation.
-- •	✅ Admin Verification: Ensures the validity of job postings and user profiles, reducing scams.
-- •	✅ Resume and Cover Letter Builder: Helps candidates create professional documents.
-- •	✅ Freelancer Support: Allows companies to rent space for freelancers to conduct sessions.
-- •	✅ IT-Focused: Targets jobs specifically in the IT domain for better matching.
+- ✅ Centralized Platform: One place to manage job applications, interviews, and resume creation.
+- ✅ Admin Verification: Ensures the validity of job postings and user profiles, reducing scams.
+- ✅ Resume and Cover Letter Builder: Helps candidates create professional documents.
+- ✅ Freelancer Support: Allows companies to rent space for freelancers to conduct sessions.
+- ✅ IT-Focused: Targets jobs specifically in the IT domain for better matching.
 
 Disadvantages
 
-- •	❌ Manual Approval Delay: Admin approvals for registrations can slow down access.
-- •	❌ Limited Job Variety: Focus is mainly on IT sector, restricting broader application.
-- •	❌ Technical Issues: May face accessibility issues due to internet or server problems.
-- •	❌ Incomplete Job Coverage: Not all job types or companies may be listed on the platform.
+- ❌ Manual Approval Delay: Admin approvals for registrations can slow down access.
+- ❌ Limited Job Variety: Focus is mainly on IT sector, restricting broader application.
+- ❌ Technical Issues: May face accessibility issues due to internet or server problems.
+- ❌ Incomplete Job Coverage: Not all job types or companies may be listed on the platform.
 
 
 
