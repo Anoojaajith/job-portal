@@ -17,11 +17,13 @@ Key Functionalities:
 - 	Approve/reject company and candidate registrations
 - 	Manage user feedback and reported profiles
 - 	Monitor user activity and delete invalid accounts
+  
 •	Company:
 - 	Create/edit company profiles
 - 	Post new job vacancies and schedule interviews
 - 	Access and download candidate resumes
 -  Rent workspace for freelancers
+  
 •	Candidate:
 - 	Search jobs and apply online
 -  Build and upload resumes, certificates, and photos
